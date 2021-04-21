@@ -1,6 +1,13 @@
-## Welcome to GitHub Pages
+## Script COVID-19[BASH]
 
-You can use the [editor on GitHub](https://github.com/carlosvelv/carlosvelv.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Requisitos:
+
+-Docker
+
+Primero haremos un pull a la imagen siguiente:
+
+`docker pull carlosve97/script_covid_mx`
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
