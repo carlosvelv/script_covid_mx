@@ -16,6 +16,7 @@ Despues de que se corra aparecerá algo asi, indicando que lo hemos podido corre
 `root@<CARACTERES>:` 
 ***
 ### script_salud.sh
+#### Script que descarga los datos y crea tres archivos csv a partir de los datos originales.
 
 Ahora accederemos al directorio scripts_covid y ejecutaremos el script 'script_salud.sh'\
 `$ bash scripts_covid/script_salud`
@@ -28,8 +29,9 @@ Esto descargará los datos mas actuales de COVID en méxico y generará un direc
 * 'fallecidos_factores_de_riesgo.csv' archivo que contiene las columnas de edad,fecha,sexo,fecha de defuncion, factores de riesgo  para todos los casos fallecidos en México 
 ***
 ### filtro_por_estado.sh
+#### Script que filtra los datos por estado
 
-POsteriormente accederemos al directorio scripts_covid y ejecutaremos el script 'filtro_por_estado.sh'\
+Posteriormente accederemos al directorio scripts_covid y ejecutaremos el script 'filtro_por_estado.sh'\
 `$ bash scripts_covid/filtro_por_estado.sh`
 
 Esto dará un menu de los estados disponibles para filtrar los datos y nosotros seleccionamos el estado de nuestra elección (en este caso es Sonora por lo que elegiremos el 26\
