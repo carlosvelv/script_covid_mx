@@ -14,7 +14,7 @@ Despues correremos la imagen que descargamos:\
 
 Despues de que se corra aparecerá algo asi, indicando que lo hemos podido correr correctamente:\
 `root@<CARACTERES>:` 
-***
+
 ### script_salud.sh
 #### Script que descarga los datos y crea tres archivos csv a partir de los datos originales.
 
@@ -27,7 +27,7 @@ Esto descargará los datos mas actuales de COVID en méxico y generará un direc
 * 'confirmados_factores_de_riesgo.csv' -> archivo que contiene las columnas de edad,fecha,sexo,fecha de defuncion, factores de riesgo para todos los casos confirmados en México
 * 'negativos_factores_de_riesgo.csv' -> archivo que contiene las columnas de edad,fecha,sexo,fecha de defuncion, factores de riesgo  para todos los casos negativos en México
 * 'fallecidos_factores_de_riesgo.csv' archivo que contiene las columnas de edad,fecha,sexo,fecha de defuncion, factores de riesgo  para todos los casos fallecidos en México 
-***
+
 ### filtro_por_estado.sh
 #### Script que filtra los datos por estado
 
