@@ -1,6 +1,5 @@
-## Script COVID-19[BASH]
 
-Tutorial para bajar la imagen de docker que contiene los scripts para descargar y agrupar datos de COVID en MX (confirmados, negativos, fallecidos) para analizar factores de riesgo, además de filtrar por estado.
+Tutorial para bajar la imagen de docker que contiene los scripts para descargar y agrupar datos de COVID en MX (confirmados, negativos, fallecidos) con el fin de  analizar los factores de riesgo, además de filtrar por estado.
 
 Requisitos:
 
